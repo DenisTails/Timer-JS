@@ -1,4 +1,4 @@
-let deadLine = '2019-07-02';
+let deadLine = '2020-07-02';
 
 function getTimeRemaining (endTime){
     let t = Date.parse(endTime) - Date.parse(new Date()),
